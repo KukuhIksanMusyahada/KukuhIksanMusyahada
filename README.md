@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KukuhIksanMusyahada
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning artificial neural network
-- 💞️ I’m looking to collaborate on ANN project
+- 💞️ I’m looking to work as machine learning engineer
 - 📫 How to reach me 083897845235  
 To know more about me check on my [Linkedln](https://www.linkedin.com/in/kukuh-iksan-musyahada-12a8b9187/)
 <!---
